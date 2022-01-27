@@ -1,0 +1,48 @@
+# Ignore all files without extensions (cpp compiled)
+*
+!*.*
+!*/
+
+# pas de fichier *~
+*~
+
+# pas de fichier .o
+*.o
+
+# pas de fichier .exe
+*.exe
+
+# pas de dossier release
+release/
+
+# pas de dossier debug
+debug/
+
+# pas de dossier build-*
+build-*/
+
+# pas de fichier .user
+*.user
+*.pro.user
+
+# pas de fichier .user.*
+*.user.*
+
+# pas de fichier Makefile
+Makefile
+
+# pas de fichier Makefile.*
+Makefile.*
+
+# pas de fichier .qmake.stash
+.qmake.stash
+
+# pas de fichier .pri
+.pri
+
+# autres
+/cmake-build-debug/
+*/.vscode/
+*/.idea/
+.DS_Store
+!Doxyfile
