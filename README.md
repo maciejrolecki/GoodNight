@@ -1,5 +1,5 @@
 # GoodNight
-A game written in cpp with GUI, multiplayer but on single computer
+A game written in cpp with GUI, multiplayer but on a single computer.
 ## How to play the game?
 In order to start the game, you have to decide how many poeplel are going to play(it can be donefrom 1 to 5 players). Each one of you will get a color and the rest colors that are not used will be placed semi-randomly on the game plate.
 When the game starts, each player will get 3 tokens to place on the board, on the line that is highlighted and indicated by a cyan token on the right. Each player has to place one token when it is his turn.
